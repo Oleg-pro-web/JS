@@ -1,3 +1,7 @@
+# Local files
+.prettierrc.json
+jsconfig.json
+
 # Logs
 logs
 *.log
