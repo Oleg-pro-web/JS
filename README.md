@@ -1,4 +1,4 @@
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png)
+![](https://images.onlinetestpad.com/d3/99/7fb58e124e48b5439b541f207cc4.jpg)
 
 # `JS` __Homeworks__
 ## _Give it a star_ ***on Github***
