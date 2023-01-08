@@ -12,7 +12,7 @@ console.log(`Змінна txt: ${typeof txt}`);
 
 // 2
 
-const Pi = 3.14;
+const Pi = Math.PI;
 const name = 'Oleg';
 const password = 'qwerty123';
 const homeworkNumber = 1;
