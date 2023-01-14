@@ -68,8 +68,8 @@ alert(a10);
 
 // 8
 
-let height = '23';
-let width = '10';
+let height = 23;
+let width = 10;
 let S = `Площа прямокутника: ${height * width}см`;
 console.log(S);
 
