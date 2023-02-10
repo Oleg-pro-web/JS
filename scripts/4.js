@@ -29,3 +29,4 @@ do {
     var hName = prompt("Hero:");
     console.log(hName);
 } while (hName.length < 6);
+
