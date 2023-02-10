@@ -26,7 +26,6 @@ do {
 
 
 do {
-    let hName = prompt("Hero:");
-
+    var hName = prompt("Hero:");
+    console.log(hName);
 } while (hName.length < 6);
-console.log(hName);
