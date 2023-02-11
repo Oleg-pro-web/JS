@@ -37,7 +37,7 @@ console.log(ArrMade.join(" "));
 console.log("Ex/5");
 let styles = ["Джаз", "Блюз"];
 styles.unshift("Рок-н-ролл");
-styles[1] = "Класика";
+styles.splice(1, 1, "Класика");
 styles.shift();
 styles.unshift("Реп", "Реггі");
 console.log(styles);
