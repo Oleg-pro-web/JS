@@ -34,7 +34,6 @@ console.log(sum);
 let a = 0;
 let b = 0;
 const calculator = {
-
     read() {
         a = Number(prompt("First number:"));
         b = Number(prompt("Second number:"));
