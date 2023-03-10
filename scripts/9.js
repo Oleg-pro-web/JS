@@ -74,7 +74,7 @@ console.log(calculateTotalBalance(users));
 const getUsersWithFriend = (users, friendName) => {
     return users.filter((user) => {
         return user.friends.includes(friendName);
-    })
+    }).map((user) => user.name)
 };
 
 console.log(getUsersWithFriend(users, 'Briana Decker'));
